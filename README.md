@@ -1,6 +1,6 @@
 # NavigationBar Challenge
 
-Bienvenue dans le challenge **NavigationBar**. Ce projet consiste à créer un formulaire de contact en respectant le design fourni.
+Bienvenue dans le challenge **NavigationBar**. Ce projet consiste à créer un menu de navigation réactif qui s'adapte à différentes tailles d'écran, en respectant le design fourni.
 
 ## Polices Utilisées
 
